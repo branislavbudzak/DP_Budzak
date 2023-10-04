@@ -1,2 +1,2 @@
-# README
+# home
 Diplomová práca
