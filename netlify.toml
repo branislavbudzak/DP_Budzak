@@ -10,14 +10,14 @@ LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "Inteligentná domácnosť 🏠 a monitorovanie rastlín 🪴"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/branislavbudzak/DP_Budzak"
 # (Optional) Site title in navbar
-SITE_TITLE = "Diplomová práca"
+SITE_TITLE = "Diplomová práca - Branislav Budzák"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = "Diplomová práca - Branislav Budzák"
+SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://dpbudzak.netlify.app"
 # (Optional) Site Timezone
@@ -30,15 +30,15 @@ GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
-HOME_GRAPH = "y"
+HOME_GRAPH = ""
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
+PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "main"
+ROOT_SECTION_NAME = "Hlavné"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
