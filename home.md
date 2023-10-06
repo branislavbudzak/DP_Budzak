@@ -1,7 +1,7 @@
 #### Témy
 [[Raspberry Pi pre diplomovku]]
 [[Raspberry Pi Time-lapse]]
-[[Senzory do kvetináča]]
+[[Raspberry Pi senzory do kvetináča]]
 
 #### Skelníky
 -  [ÅKERBÄR Mini skleník, na von/dnu/biela, 45 cm - IKEA](https://www.ikea.com/sk/sk/p/akerbaer-mini-sklenik-na-von-dnu-biela-30537170/)

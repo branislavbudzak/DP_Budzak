@@ -1,8 +1,6 @@
 ---
 up: "[[📔 Diplomová práca]]"
 ---
-# Senzory do kvetináča
-
 #### Senzory vlhkosti
 -  Rozdeľujú sa na odporové a kapacitné
 	- Odporové majú nižšiu cenu
