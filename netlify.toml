@@ -8,7 +8,7 @@ LANDING_BUTTON = "Zobraziť poznámky 🗒️"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Diplomová práca - Branislav Budzák"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "Home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Inteligentná domácnosť 🏠 a monitorovanie rastlín 🪴"
 PYTHON_VERSION = "3.8"

@@ -1,14 +1,14 @@
-#### Témy
+#### Zadanie diplomovej práce
+1. Naštudujte si a oboznámte sa s problematikou inteligentnej domácnosti a jej využitia pri starostlivosti o rastliny
+2. Navrhnite riešenie s možnosťou monitorovania rôznych parametrov rastliny a pôdy (teplotu, svetlo, vlhkosť a tak podobne)
+3. Zamerajte sa aj na vytvorenie videozáznamu (napr. timelapse záznam)
+4. Navrhnuté riešenie zrealizujte a získané výsledky vyhodnoťte.
+
+### Obsah
 [[Raspberry Pi pre diplomovku]]
 [[Raspberry Pi Time-lapse]]
 [[Raspberry Pi senzory do kvetináča]]
 
-#### Skelníky
--  [ÅKERBÄR Mini skleník, na von/dnu/biela, 45 cm - IKEA](https://www.ikea.com/sk/sk/p/akerbaer-mini-sklenik-na-von-dnu-biela-30537170/)
+#### Aktuálna schéma
+![[Schéma V2.png]]
 
-#### Podtrebné produtky
-- [SB Components Zero Relay - 2kanálový 5 V Relay Board pro Raspberry Pi](https://rpishop.cz/automatizacni-karty/3745-sb-zero-relay-2kanalova-5-v-relay-board-pro-raspberry-pi.html)
-- [Raspberry Pi Zero WH](https://rpishop.cz/raspberry-pi-zero/685-raspberry-pi-zero-wh-4250236816296.html)
-- [M5Stack Zavlažovací modul s čerpadlem a senzorem vlhkosti](https://rpishop.cz/bloky/4233-m5stack-zavlazovaci-modul-s-cerpadlem-a-senzorem-vlhkosti.html)
-- [Modul senzoru vlhkosti půdy](https://rpishop.cz/puda/2452-modul-senzoru-vlhkosti-pudy.html)
-- [Elecfreaks Octopus Analogový kapacitní senzor vlhkosti půdy](https://rpishop.cz/octopus/2122-elecfreaks-octopus-analogovy-kapacitni-senzor-vlhkosti-pudy.html)
