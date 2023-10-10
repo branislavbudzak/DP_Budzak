@@ -1,6 +1,3 @@
----
-up: "[[📔 Diplomová práca]]"
----
 #### Senzory vlhkosti
 -  Rozdeľujú sa na odporové a kapacitné
 	- Odporové majú nižšiu cenu

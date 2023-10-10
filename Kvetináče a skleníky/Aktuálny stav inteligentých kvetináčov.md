@@ -1,0 +1,1 @@
+Momentálne môžeme na trhu nájsť niekoľko druhov inteligentných kvetináčov, ktoré majú rôzne funkcie.

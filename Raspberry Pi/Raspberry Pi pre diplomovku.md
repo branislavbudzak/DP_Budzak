@@ -1,8 +1,3 @@
----
-"up:": "[[📔 Diplomová práca]]"
----
-# Raspberry Pi pre diplomovku
-
 ### Hybernácia
 Samotný Raspberry Pi nevie hybernovať a jeho jediná možnosť ako ho dočasne vypnúť je vypojiť ho úplne zo zásuvky.
 
