@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9256bf8051b40f6a","x":-299,"y":40,"width":227,"height":60,"type":"text","text":"Kvetináče a skleníky"},
+		{"id":"ee41503d07e08bda","x":-271,"y":-363,"width":171,"height":60,"type":"text","text":"Raspberry Pi"},
+		{"id":"47864bf050d29d47","type":"text","text":"**Starostlivosť o rastliny 🪴 a inteligentná domácnosť 🏡**","x":-331,"y":-183,"width":292,"height":67},
+		{"id":"1f57039b5a2447c6","x":-540,"y":-363,"width":121,"height":60,"type":"text","text":"Softvér"},
+		{"id":"5ac5a82f957f3866","x":60,"y":-363,"width":135,"height":60,"type":"text","text":"Hardvér"},
+		{"id":"34db48b887c184a3","x":360,"y":-303,"width":200,"height":60,"type":"text","text":"Senzory vlhkosti"},
+		{"id":"d2cce8c008ffef6b","type":"text","text":"Senzory tepla","x":360,"y":-183,"width":200,"height":60},
+		{"id":"99c1e90f71a7b356","type":"text","text":"Senzory svetla","x":360,"y":-420,"width":200,"height":60},
+		{"id":"418099ea0af4928e","type":"text","text":"Zavlažovacie systémy","x":340,"y":-520,"width":240,"height":60},
+		{"id":"b36d8ee6f77b08b6","x":-779,"y":-276,"width":250,"height":60,"type":"text","text":"Notifikačné "}
+	],
+	"edges":[
+		{"id":"86de3b9e6fc5ab5c","fromNode":"47864bf050d29d47","fromSide":"top","toNode":"ee41503d07e08bda","toSide":"bottom"},
+		{"id":"4316017709b36812","fromNode":"47864bf050d29d47","fromSide":"bottom","toNode":"9256bf8051b40f6a","toSide":"top"},
+		{"id":"9d6a1d2393a0e1e5","fromNode":"ee41503d07e08bda","fromSide":"left","toNode":"1f57039b5a2447c6","toSide":"right"},
+		{"id":"94e6dfec4ce39727","fromNode":"ee41503d07e08bda","fromSide":"right","toNode":"5ac5a82f957f3866","toSide":"left"},
+		{"id":"413e87f4e4665c9b","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"418099ea0af4928e","toSide":"left"},
+		{"id":"3b4f72f3ce6e015d","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"99c1e90f71a7b356","toSide":"left"},
+		{"id":"b6434f74dd7f1e32","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"34db48b887c184a3","toSide":"left"},
+		{"id":"eb64c81db9e8e8fd","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"d2cce8c008ffef6b","toSide":"left"}
+	]
+}

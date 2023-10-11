@@ -5,9 +5,18 @@
 4. Navrhnuté riešenie zrealizujte a získané výsledky vyhodnoťte.
 
 ### Obsah
-[[Raspberry Pi pre diplomovku]]
-[[Raspberry Pi Time-lapse]]
-[[Raspberry Pi senzory do kvetináča]]
+#### Raspbeery Pi
+- [[Raspberry Pi pre diplomovku]]
+- [[Raspberry Pi senzory do kvetináča]]
+- [[Raspberry Pi zavlažovanie]]
+- [[Raspberry Pi kamery]]
+- 
+#### Kvetináče a skleníky
+- [[Aktuálny stav inteligentých kvetináčov]]
+- 
+#### Softvér
+- [[Komunikačný server pre RPi]]
+- 
 
 #### Aktuálna schéma
 ![[Schéma V2.png]]
