@@ -8,7 +8,6 @@
 	- **Zameranie**: bilinky
 	- **Funkcie**
 		- Špeciálne predpripravená pôda
-		- 
 - Véritable® Connect Inteligentný kvetináč
 	- **Cena:** 100 - 260€
 	- **Počet sadeníc:** 2-4 sadeníc

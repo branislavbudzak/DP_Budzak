@@ -2,7 +2,6 @@
 -  Rozdeľujú sa na odporové a kapacitné
 	- Odporové majú nižšiu cenu
 	- Kapacitné však vydržia dlhšie a majú lepšiu výkonnosť
-- 
 
 
 Zdroje:

@@ -10,13 +10,10 @@
 - [[Raspberry Pi senzory do kvetináča]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
-- 
 #### Kvetináče a skleníky
 - [[Aktuálny stav inteligentých kvetináčov]]
-- 
 #### Softvér
 - [[Komunikačný server pre RPi]]
-- 
 
 #### Aktuálna schéma
 ![[Schéma V2.png]]
