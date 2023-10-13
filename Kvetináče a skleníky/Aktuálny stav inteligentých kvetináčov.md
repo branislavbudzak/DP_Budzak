@@ -2,7 +2,7 @@
 - 
 
 ## Riešenia predávané na Slovensku
-- Click and Grow Smart Garden
+- Click and Grow Smart Garden - Hydroponické pestovanie
 	- **Cena:** 77 - 178€
 	- **Počet sadeníc**: 3-9 sadeníc
 	- **Zameranie**: bilinky
