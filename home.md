@@ -13,7 +13,7 @@
 #### Kvetináče a skleníky
 - [[Aktuálny stav inteligentých kvetináčov]]
 #### Softvér
-- [[Komunikačný server pre RPi]]
+- [[Raspberry Pi Komunikačný server]]
 
 #### Aktuálna schéma
 ![[Schéma V2.png]]

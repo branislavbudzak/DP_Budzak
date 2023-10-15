@@ -12,4 +12,4 @@
 - Gotify
 	- Self-hosted push notification service
 	- Iba Android aplikácia
-- MQTT broker a Home Assistant 
+- MQTT broker a Home Assistant
