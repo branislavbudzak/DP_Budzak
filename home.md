@@ -5,13 +5,18 @@
 4. Navrhnuté riešenie zrealizujte a získané výsledky vyhodnoťte.
 
 ### Obsah
+- [[Potrebné produkty]]
+- [[Podobné záverečné práce]]
+
 #### Raspbeery Pi
 - [[Raspberry Pi pre diplomovku]]
 - [[Raspberry Pi senzory do kvetináča]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
+
 #### Kvetináče a skleníky
 - [[Aktuálny stav inteligentých kvetináčov]]
+
 #### Softvér
 - [[Raspberry Pi Komunikačný server]]
 
