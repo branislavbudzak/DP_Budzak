@@ -6,20 +6,23 @@
 - Inteligentné kvetináče stimulujú prospešné baktérie vďaka prevzdušňovaniu a umožňujú rastline využiť celý priestor vo vnútri nádoby na rast koreňov, vďaka čomu rastlina rastie väčšia ako v tradičných hydroponických nádobách .
 
 ## Riešenia predávané na Slovensku
-- Click and Grow Smart Garden - Hydroponické pestovanie
+- **Click and Grow Smart Garden** - Hydroponické pestovanie
 	- **Cena:** 77 - 178€
 	- **Počet sadeníc**: 3-9 sadeníc
 	- **Zameranie**: bilinky
 	- **Funkcie**
-		- Špeciálne predpripravená pôda
 		- Aplikácia Click and Grow
+		- Využívajú špeciálne vyvinutú inteligentnú pôdu a jednoduchý automatizovaný systém, ktorý vám pomôže pestovať rastliny rýchlo a ľahko, bez GMO, pesticídov, insekticídov a iných škodlivých látok
+		- Vodný rezervoár s výdržov až do 4 týždňov
 	- [Link na produkty](https://www.smartkvetinac.eu/click-and-grow/)
 	- [Webová stránka Click & Grow](https://eu.clickandgrow.com/pages/technology)
-- Véritable® Connect Inteligentný kvetináč
+- **Véritable® Connect** Inteligentný kvetináč
 	- **Cena:** 100 - 260€
 	- **Počet sadeníc:** 2-4 sadeníc
 	- **Zameranie:** červstvá zelenina, bylinky a kvety
 	- **Funkcie**
 		- Mobilná aplikácia Véritable Connect
+		- Špeciálna LED technológia na osvetlenie rastlín
+		- Integrovaný vodný rezervoár s výdržov až do 4 týždňov
 	- [Link na produkty](https://www.smartkvetinac.eu/veritable/)
 	- [Webová stránka Véritable](https://www.veritable-potager.fr/en/content/15-techno)

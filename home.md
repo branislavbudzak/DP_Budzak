@@ -5,10 +5,10 @@
 4. Navrhnuté riešenie zrealizujte a získané výsledky vyhodnoťte.
 
 ### Obsah
-- [[Potrebné produkty]]
+- [[Navrhované produkty na kúpu]]
 - [[Podobné záverečné práce]]
 
-#### Raspbeery Pi
+#### Raspberry Pi
 - [[Raspberry Pi pre diplomovku]]
 - [[Raspberry Pi senzory do kvetináča]]
 - [[Raspberry Pi zavlažovanie]]
