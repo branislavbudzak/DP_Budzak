@@ -15,9 +15,9 @@
 		{"id":"235d86c5b93a1af6","type":"text","text":"Regulovanie svetla","x":360,"y":-680,"width":240,"height":60},
 		{"id":"0b855c782c62a47f","type":"text","text":"Displej","x":360,"y":-40,"width":140,"height":60},
 		{"id":"192cd00a5774f68f","x":-979,"y":-40,"width":426,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Raspberry Pi Komunikačný server.md"},
-		{"id":"3c8e33046cdca4b8","x":-72,"y":140,"width":400,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Raspberry Pi senzory do kvetináča.md"},
 		{"id":"5a8ef021e5878670","type":"text","text":"Kamera","x":360,"y":-146,"width":140,"height":60},
-		{"id":"a736f0df1c795274","x":-254,"y":-480,"width":138,"height":50,"type":"text","text":"Smartfón"}
+		{"id":"a736f0df1c795274","x":-254,"y":-480,"width":138,"height":50,"type":"text","text":"Smartfón"},
+		{"id":"3c8e33046cdca4b8","x":-72,"y":-1080,"width":400,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Raspberry Pi senzory do kvetináča.md"}
 	],
 	"edges":[
 		{"id":"86de3b9e6fc5ab5c","fromNode":"47864bf050d29d47","fromSide":"top","toNode":"ee41503d07e08bda","toSide":"bottom"},
@@ -35,7 +35,7 @@
 		{"id":"281419105c2cb900","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"235d86c5b93a1af6","toSide":"left"},
 		{"id":"4acad9f47347c691","fromNode":"5ac5a82f957f3866","fromSide":"right","toNode":"0b855c782c62a47f","toSide":"left"},
 		{"id":"0165d838e1b5200d","fromNode":"b36d8ee6f77b08b6","fromSide":"bottom","toNode":"192cd00a5774f68f","toSide":"top"},
-		{"id":"51175a2f0fc67504","fromNode":"5ac5a82f957f3866","fromSide":"bottom","toNode":"3c8e33046cdca4b8","toSide":"top"},
+		{"id":"51175a2f0fc67504","fromNode":"5ac5a82f957f3866","fromSide":"top","toNode":"3c8e33046cdca4b8","toSide":"top"},
 		{"id":"d1a46fdf2dd80c79","fromNode":"ee41503d07e08bda","fromSide":"top","toNode":"a736f0df1c795274","toSide":"bottom"},
 		{"id":"77c5a9a0bbe261b7","fromNode":"a736f0df1c795274","fromSide":"left","toNode":"c716f2a6e3066bb6","toSide":"right"},
 		{"id":"72f6497df01aee78","fromNode":"a736f0df1c795274","fromSide":"right","toNode":"5a8ef021e5878670","toSide":"left"},

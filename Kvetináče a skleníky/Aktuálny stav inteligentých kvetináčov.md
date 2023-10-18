@@ -26,3 +26,15 @@
 		- Integrovaný vodný rezervoár s výdržov až do 4 týždňov
 	- [Link na produkty](https://www.smartkvetinac.eu/veritable/)
 	- [Webová stránka Véritable](https://www.veritable-potager.fr/en/content/15-techno)
+## Riešenia predávané v zahraničí
+- **iDOO WiFi Hydroponic Growing System**
+	- **Cena:** 100-170€
+	- **Počet sadeníc:** 10-12 sadeníc
+	- **Zameranie:** bylinky
+	- **Funkcie**
+		- LED lampa a ventilátor
+		- Rezervoár na 6,5 litra vody, ktorý vydrží 2-3 týždne
+		- Upozornenia, aby ste predišli nedostatku vody
+		- Gennec aplikácia
+	- [Link na produkt - 12 sadeníc](https://www.amazon.de/-/en/Hydroponic-Growing-Container-Adjustable-Hydroponics/dp/B098B3DF8W?crid=S9GTN1R6UHCC&keywords=smart%2Bplant%2Bpot&qid=1697618396&sprefix=smart%2Bpot%2B%2Caps%2C102&sr=8-10&th=1)
+	- [Link na produkt - 10 sadeníc](https://www.amazon.de/Hydroponic-Growing-Systems-Germination-Adjustable/dp/B09638W4BY?ref_=ast_sto_dp&th=1&psc=1)
