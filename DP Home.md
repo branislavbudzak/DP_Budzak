@@ -9,6 +9,7 @@
 - [[Podobné záverečné práce]]
 
 #### Raspberry Pi
+- [[Rasbperry Pi Zero]]
 - [[Raspberry Pi pre diplomovku]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
