@@ -17,7 +17,7 @@
 		{"id":"192cd00a5774f68f","x":-979,"y":-40,"width":426,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Raspberry Pi Komunikačný server.md"},
 		{"id":"5a8ef021e5878670","type":"text","text":"Kamera","x":360,"y":-146,"width":140,"height":60},
 		{"id":"a736f0df1c795274","x":-254,"y":-480,"width":138,"height":50,"type":"text","text":"Smartfón"},
-		{"id":"3c8e33046cdca4b8","x":-72,"y":-1080,"width":400,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Raspberry Pi senzory do kvetináča.md"}
+		{"id":"3c8e33046cdca4b8","x":-72,"y":-1080,"width":400,"height":400,"type":"file","file":"DP_Budzak/Raspberry Pi/Senzory vlhkosti.md"}
 	],
 	"edges":[
 		{"id":"86de3b9e6fc5ab5c","fromNode":"47864bf050d29d47","fromSide":"top","toNode":"ee41503d07e08bda","toSide":"bottom"},

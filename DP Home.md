@@ -10,9 +10,12 @@
 
 #### Raspberry Pi
 - [[Raspberry Pi pre diplomovku]]
-- [[Raspberry Pi senzory do kvetináča]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
+
+#### Senzory
+- [[Senzory vlhkosti]]
+- [[Senzory teploty a vlhkosti]]
 
 #### Kvetináče a skleníky
 - [[Aktuálny stav inteligentých kvetináčov]]
@@ -21,5 +24,5 @@
 - [[Raspberry Pi Komunikačný server]]
 
 #### Aktuálna schéma
-![[Schéma V2.png]]
+![[Schéma V3.jpg]]
 
