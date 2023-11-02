@@ -10,7 +10,7 @@
 
 #### Raspberry Pi
 - [[Rasbperry Pi Zero]]
-- [[Raspberry Pi pre diplomovku]]
+- [[Raspberry Pi Hybernácia a spotreba]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
 
@@ -25,5 +25,4 @@
 - [[Raspberry Pi Komunikačný server]]
 
 #### Aktuálna schéma
-![[Schéma V3.jpg]]
-
+![[Schéma V4.png]]
