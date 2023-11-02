@@ -10,7 +10,7 @@
 
 #### Raspberry Pi
 - [[Rasbperry Pi Zero]]
-- [[Raspberry Pi Hybernácia a spotreba]]
+- [[Raspberry Pi hybernácia a spotreba]]
 - [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
 
