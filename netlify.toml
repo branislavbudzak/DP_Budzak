@@ -8,7 +8,7 @@ LANDING_BUTTON = "Zobraziť dokumentáciu 🗒️"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "MIKT - Fakulta Elektrotechniky a Informatiky STU"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "DP_Home"
+LANDING_PAGE = "DP-Home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Inteligentná domácnosť 🏠 a monitorovanie rastlín 🪴"
 PYTHON_VERSION = "3.8"
