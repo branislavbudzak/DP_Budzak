@@ -11,8 +11,8 @@
 #### Raspberry Pi
 - [[Rasbperry Pi Zero]]
 - [[Raspberry Pi hybernácia a spotreba]]
-- [[Raspberry Pi zavlažovanie]]
 - [[Raspberry Pi kamery]]
+- [[Raspberry Pi zavlažovanie]]
 
 #### Senzory
 - [[Senzory vlhkosti]]
