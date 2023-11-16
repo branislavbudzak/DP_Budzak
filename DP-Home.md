@@ -9,10 +9,10 @@
 - [[Podobné záverečné práce]]
 
 #### Raspberry Pi
-- [[Rasbperry Pi Zero]]
-- [[Raspberry Pi hybernácia a spotreba]]
-- [[Raspberry Pi kamery]]
-- [[Raspberry Pi zavlažovanie]]
+- [[Raspberry Pi Zero]]
+- [[RPi hybernácia a spotreba]]
+- [[RPi kamery]]
+- [[RPi zavlažovanie]]
 
 #### Senzory
 - [[Senzory vlhkosti]]
@@ -22,7 +22,8 @@
 - [[Aktuálny stav inteligentých kvetináčov]]
 
 #### Softvér
-- [[Raspberry Pi Komunikačný server]]
+- [[RPi Komunikačný server]]
+- [[RPi Home Assistant]]
 
 #### Aktuálna schéma
-![[Schéma V4.png]]
+![[Schéma V5.png]]

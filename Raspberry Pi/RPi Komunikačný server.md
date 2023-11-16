@@ -1,4 +1,9 @@
 #### Push notifikácie do mobilu
+- Pushover
+	- 5 dolárov jednorazová platba za každé zariadenie
+	- Multiplatformová aplikácia
+	- [GitHub - raspberrycoulis/pushover: Python script for Raspberry Pi Pushover notifications](https://github.com/raspberrycoulis/pushover)
+	- [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net)
 - Pushbullet - Python build in libraries
 	- Používa Google Coud Messaging (GCM) backend server pre Android
 	- APNS pre Apple
