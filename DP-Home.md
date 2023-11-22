@@ -13,6 +13,7 @@
 - [[RPi hybernácia a spotreba]]
 - [[RPi kamery]]
 - [[RPi zavlažovanie]]
+- [[RPi napájanie pomocou batérie]]
 
 #### Senzory
 - [[Senzory vlhkosti]]

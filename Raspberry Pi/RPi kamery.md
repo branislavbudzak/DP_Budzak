@@ -17,3 +17,5 @@ Kamerový modul pre Raspberry Pi Zero je zariadenie, ktoré umožňuje záznam v
 	- Kamerový modul je pripojený pomocou flexibilného pásu, ktorý umožňuje väčšiu slobodu pri umiestňovaní kamery v projekte.
 - **Použitie Konektorov:**
 	- Niekedy sú k dispozícii špeciálne konektory pre pripojenie kamerových modulov, ktoré umožňujú jednoduché pripojenie bez potreby kábelov.
+
+[Dokumentácia oficiálneho Raspberry Pi kamera modulu](https://www.raspberrypi.com/documentation/accessories/camera.html)
