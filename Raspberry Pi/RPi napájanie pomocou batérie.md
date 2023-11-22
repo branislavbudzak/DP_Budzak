@@ -1,0 +1,4 @@
+Väčšina elektromagnetických ventilov funguje buď na 12 V DC, alebo na 24 V DC, takže budeme potrebovať buď relé, alebo tranzistor a teda na napájanie máme niekoľko možností ak nechceme mať zariadenie napojené priamo v sieti.
+- Malý (20 W) solárny panel a nabíjateľná batéria (batérie) sú použiteľné ako zdroj energie, ale nebudú poskytovať dostatok energie na prevádzku RPi 24 hodín denne. Budeme musieť buď ručne vypnúť systém, alebo použiť hodiny v reálnom čase na jeho zapnutie a vypnutie.
+- Väčšina relé spotrebuje pomerne veľa energie. Ak sú časy chodu rozsiahle, mohli by sme zvážiť použitie blokovacieho relé.
+- Elektromagnetické ventily vs. ventily poháňané motorom: Elektromagnetické ventily tiež spotrebúvajú pomerne veľa energie. Ako alternatívu môžeme zvážiť ventil poháňaný motorom. Existujú ventily, o ktorých sa hovorí, že majú dômyselné konštrukčné vlastnosti a sú účinnejšie ako tradičné elektromagnetické ventily.
