@@ -1,4 +1,4 @@
-Kamerový modul pre Raspberry Pi Zero je zariadenie, ktoré umožňuje záznam videa a snímky fotografií pomocou Raspberry Pi Zero. Takáto kamera má rôzne využitia v projektoch zameraných na fotografiu, videozáznam, sledovanie, detekciu pohybu, rozpoznávanie tvárí a podobne.
+Kamerový modul pre [[Raspberry Pi Zero]] je zariadenie, ktoré umožňuje záznam videa a snímky fotografií.
 
 #### Použitie Kamerového Modulu
 - **Fotografie a Videá:**
@@ -15,7 +15,10 @@ Kamerový modul pre Raspberry Pi Zero je zariadenie, ktoré umožňuje záznam v
 	- Kamerový modul sa pripája priamo na GPIO (General Purpose Input/Output) pin header Raspberry Pi Zero. Toto je štandardné pripojenie, ale väčšinou sa používa flexibilné použitie.
 - **Flexibilné Pripojenie:**
 	- Kamerový modul je pripojený pomocou flexibilného pásu, ktorý umožňuje väčšiu slobodu pri umiestňovaní kamery v projekte.
-- **Použitie Konektorov:**
-	- Niekedy sú k dispozícii špeciálne konektory pre pripojenie kamerových modulov, ktoré umožňujú jednoduché pripojenie bez potreby kábelov.
+
+#### Protokol
+Modul kamery Raspberry Pi zvyčajne používa na pripojenie k doskám Raspberry Pi vrátane Raspberry Pi Zero protokol CSI (Camera Serial Interface). Rozhranie CSI je špecializované rozhranie kamery, ktoré umožňuje vysokorýchlostný prenos údajov medzi modulom kamery a Raspberry Pi.
+
+Modul kamery sa pripája k portu CSI na doske Raspberry Pi pomocou páskového kábla. Toto špecializované rozhranie umožňuje efektívnu komunikáciu a vysokú šírku dátového pásma, vďaka čomu je vhodné na snímanie obrázkov a videí v reálnom čase.
 
 [Dokumentácia oficiálneho Raspberry Pi kamera modulu](https://www.raspberrypi.com/documentation/accessories/camera.html)
