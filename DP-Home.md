@@ -1,3 +1,6 @@
+---
+id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
+---
 #### Zadanie diplomovej práce
 1. Naštudujte si a oboznámte sa s problematikou inteligentnej domácnosti a jej využitia pri starostlivosti o rastliny
 2. Navrhnite riešenie s možnosťou monitorovania rôznych parametrov rastliny a pôdy (teplotu, svetlo, vlhkosť a tak podobne)
