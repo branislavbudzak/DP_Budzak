@@ -22,5 +22,6 @@ Topics sú záujmy klientov, na ktoré majú čo posielať alebo prijímať spr�
 ![[Pasted image 20231116103634.png]]
 Napríklad:
 Na obrázku má Publish/Subscribe Client 1 záujem poslať správu na tému "home/server" a Client 2 má záujem prijať správu na tú istú tému.
-### Zobrazenie informácií o rastline
-
+### Zobrazenie informácií o rastline v Home Assistante
+[Plant status card - Home Assistant](https://www.home-assistant.io/dashboards/plant-status/)
+![[plant_card.png]]
