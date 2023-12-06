@@ -6,8 +6,9 @@
 
 ## Protokoly a pripojenia, ktoré podporuje
 - **GPIO (General Purpose Input/Output):** Piny GPIO na Raspberry Pi Zero možno nakonfigurovať tak, aby podporovali digitálny vstup a výstup na všeobecné účely. Táto flexibilita umožňuje komunikáciu so širokou škálou snímačov a iných zariadení.
-- **I2C (Inter-Integrated Circuit):** Raspberry Pi Zero obsahuje piny GPIO, ktoré možno nakonfigurovať na podporu komunikácie I2C. I2C je sériový komunikačný protokol s viacerými nadradenými a podriadenými zariadeniami, ktorý sa bežne používa na pripojenie snímačov, displejov a iných periférnych zariadení.
-- **SPI (Serial Peripheral Interface):** Raspberry Pi Zero podporuje komunikáciu SPI prostredníctvom pinov GPIO. SPI je synchrónny sériový komunikačný protokol používaný na pripojenie zariadení, ako sú displeje, snímače a iné periférie.
+- [[I2C Protokol]]: Raspberry Pi Zero obsahuje piny GPIO, ktoré možno nakonfigurovať na podporu komunikácie I2C. I2C je sériový komunikačný protokol s viacerými nadradenými a podriadenými zariadeniami, ktorý sa bežne používa na pripojenie snímačov, displejov a iných periférnych zariadení.
+- [[SPI Protokol]]: Raspberry Pi Zero podporuje komunikáciu SPI prostredníctvom pinov GPIO. SPI je synchrónny sériový komunikačný protokol používaný na pripojenie zariadení, ako sú displeje, snímače a iné periférie.
+- [[CSI Protokol]]: Raspberry Pi Zero má samostatný konektor, ktorý slúži na pripojenie kamerového modulu. Do tohto konektoru sa pripája flexibilný kábel, ktorý komunikuje s RPi cez Camera Serial Interface (CSI) protokol.
 - **UART (univerzálny asynchrónny prijímač a vysielač):** Raspberry Pi Zero GPIO piny je možné nakonfigurovať aj na komunikáciu cez UART. UART je štandardný asynchrónny sériový komunikačný protokol používaný na pripojenie zariadení, ako sú moduly GPS, moduly Bluetooth a iné sériové periférie.
 - **PWM (pulzno-šírková modulácia):** Raspberry Pi Zero podporuje PWM na niektorých pinoch GPIO. PWM sa často používa na riadenie intenzity LED diód, rýchlosti motorov a iných aplikácií, ktoré vyžadujú premenlivý výstup.
 - **Jednovodičové pripojenie (One-Wire):** Raspberry Pi Zero podporuje protokol One-Wire, ktorý sa bežne používa napríklad na pripojenie snímačov teploty.

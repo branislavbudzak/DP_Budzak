@@ -1,4 +1,3 @@
-
 Snímače vlhkosti sú elektronické zariadenia, ktoré sa používajú na meranie vlhkosti v prostredí. RozTieto snímače sa skladajú z niekoľkých základných komponentov, medzi ktoré patria:
 - **Meter vlhkosti**: Meter vlhkosti je elektronický senzor, ktorý meria vlhkosť v prostredí. Vlhkomery môžu byť kapacitné, odporové alebo optické.
 - **termistor**: Termistor je elektronická súčiastka, ktorá mení svoj odpor v závislosti od teploty. Niektoré snímače vlhkosti môžu byť vybavené termistormi na meranie teploty v prostredí.
