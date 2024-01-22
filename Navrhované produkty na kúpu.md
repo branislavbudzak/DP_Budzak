@@ -42,3 +42,4 @@ Linky sú predovšetkým na slovenské/české e-shopy, ale väčšinou sa dajú
 ### Displeje
 - E-ink
 	- [2.13inch E-Paper E ink Display Screen Extension HAT Starter Kit for RPI Raspberry Pi Zero 2 W WH 2W 3 Model B 4 Expansion Board - AliExpress](https://www.aliexpress.com/item/1005001749804276.html?spm=a2g0o.productlist.main.1.f98965a6Wyf3l4&algo_pvid=54376326-7181-4c81-b510-ddaf766b46b6&algo_exp_id=54376326-7181-4c81-b510-ddaf766b46b6-0&pdp_npi=4%40dis%21EUR%2123.82%2118.58%21%21%2124.66%21%21%402103205116989182816792054e66e8%2112000027874471909%21sea%21SK%21907449841%21&curPageLogUid=hAFIgB7xv17E)
+	- 

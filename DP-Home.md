@@ -40,18 +40,20 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 - [[Dôležité údaje na monitorovanie rastlín]]
 
 #### Aktuálna schéma
-![[Schéma V5.png]]
+![[DP_Budzak/Schéma V6.png]]
 
 #### Základná osnova diplomovej práce
 **I. Úvod**
 - Úvod do témy - Krátky prehľad o dôležitosti monitorovania rastlín v domácom prostredí
 - Motivácia a ciele práce - Vysvetlenie dôvodov voľby témy a stanovenie cieľov práce.
 - Technologický kontext - Predstavenie technologických aspektov, ako napríklad Raspberry Pi Zero a jeho úloha v projektoch IoT.
-**II. Literárny prehľad**
+**II. Prehľad súčastného stavu**
 - Existujúce metódy monitorovania rastlín - Prehľad aktuálnych metód a technológií v oblasti monitorovania rastlín.
 - Súčasné riešenia inteligentného zavlažovania - Predstavenie existujúcich riešení pre inteligentné zavlažovanie a monitorovanie stavu rastlín v domácom prostredí.
 - Senzory pre monitorovanie - Hodnotenie dostupných senzorov pre meranie vlhkosti pôdy, vzduchu, teploty, svetla, pH a ďalších relevantných parametrov.
+- Ukladanie údajov a monitorovanie
 **III. Hardvér a Softvér**
+- Komunikačné protokoly
 - Raspberry Pi Zero - Podrobný opis Raspberry Pi Zero a jeho možností.
 - Senzory a ich využitie - Špecifikácie použitých senzorov a ich význam pre monitorovanie rastlín.
 - Kamera a tvorba time-lapse záznamov - Popis použitia kamery pre vytváranie time-lapse záznamov.
