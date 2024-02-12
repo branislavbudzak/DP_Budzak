@@ -53,6 +53,7 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 	- Inteligentné zavlažovanie
 		- Význam a prínos automatického zavlažovania
 	- Údaje na monitorovanie rastliny
+		- Podrobnejší opis a ako súvisia
 	- Time-lapse záznamy
 		- Aktuálne riešenia
 		- Kamery
@@ -80,6 +81,8 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 		- Publish/Subscribe
 		- Messages
 		- Topics
+	- Architektúra MQTT
+	- Ovládanie zariadení pomocou MQTT
 	- Využitie v reálnych aplikáciách
 4. Návrh testovacej prevádzky
 	- Schéma navrhovaného riešenia
