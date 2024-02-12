@@ -42,32 +42,62 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 #### Aktuálna schéma
 ![[DP_Budzak/Schéma V6.png]]
 
-#### Základná osnova diplomovej práce
-**I. Úvod**
-- Úvod do témy - Krátky prehľad o dôležitosti monitorovania rastlín v domácom prostredí
-- Motivácia a ciele práce - Vysvetlenie dôvodov voľby témy a stanovenie cieľov práce.
-- Technologický kontext - Predstavenie technologických aspektov, ako napríklad Raspberry Pi Zero a jeho úloha v projektoch IoT.
-**II. Prehľad súčastného stavu**
-- Existujúce metódy monitorovania rastlín - Prehľad aktuálnych metód a technológií v oblasti monitorovania rastlín.
-- Súčasné riešenia inteligentného zavlažovania - Predstavenie existujúcich riešení pre inteligentné zavlažovanie a monitorovanie stavu rastlín v domácom prostredí.
-- Senzory pre monitorovanie - Hodnotenie dostupných senzorov pre meranie vlhkosti pôdy, vzduchu, teploty, svetla, pH a ďalších relevantných parametrov.
-- Ukladanie údajov a monitorovanie
-**III. Hardvér a Softvér**
-- Komunikačné protokoly
-- Raspberry Pi Zero - Podrobný opis Raspberry Pi Zero a jeho možností.
-- Senzory a ich využitie - Špecifikácie použitých senzorov a ich význam pre monitorovanie rastlín.
-- Kamera a tvorba time-lapse záznamov - Popis použitia kamery pre vytváranie time-lapse záznamov.
-- Home Assistant a MQTT Broker - Vysvetlenie použitia Home Assistant na sledovanie stavu rastlín a jeho pripojenie pomocou MQTT brokera.
-**IV. Metodológia**
-- Vytváranie monitorovacieho systému - Detailný opis postupu pri vytváraní monitorovacieho systému.
-- Zavlažovací systém - Návrh a implementácia zavlažovacieho systému s automatickým riadením na základe nametených hodnôt.
-- Konfigurácia kamery - Nastavenie kamery pre tvorbu time-lapse záznamov.
-- Implementácia Home Assistant - Implementácia Home Assistant pre sledovanie stavu rastlín a ovládanie systému.
-**V. Výsledky**
-- Analýza nametených údajov - Prezentácia nametených dát a výsledkov monitorovania rastlín.
-- Hodnotenie funkčnosti zavlažovacieho systému - Zhodnotenie účinnosti zavlažovacieho systému a ďalších implementovaných prvkov.
-- Diskusia o prínose pre domácich pestovateľov - Diskusia o výhodách vytvoreného systému pre domácich pestovateľov.
-**VI. Záver**
-- Shrnutie výsledkov a dosiahnutých cieľov - Zhrnutie dosiahnutých výsledkov a odpovede na stanovené ciele.
-- Možné rozšírenia a vylepšenia - Diskusia o možných rozšíreniach a vylepšeniach navrhnutého systému.
-- Záverečné úvahy a odporúčania - Posledné úvahy a odporúčania pre budúci výskum.
+[[Podrobnejšia osnova]]
+
+### Obsah diplomovej práce
+- Úvod
+1. Úvod do problematiky
+	- Monitorovanie rastín v smart domácností
+		- Význam a prínos monitorovania rastlín
+	- Inteligentné kvetináče
+	- Inteligentné zavlažovanie
+		- Význam a prínos automatického zavlažovania
+	- Údaje na monitorovanie rastliny
+	- Time-lapse záznamy
+		- Aktuálne riešenia
+		- Kamery
+	- Komunikačné technológie
+		- CSI Protokol
+		- SPI Protokol
+		- I2C Protokol
+		- MQTT Protokol
+	- Raspberry Pi Zero
+		- Kamery pre zaznamenávanie videa
+		- Vhodné senzory
+		- Komunikačné servre
+		- Prepojenie s Home Assistantom
+2. DIY Time-lapse zariadenia
+	- Použitý hardvér
+		- Raspberry Pi
+		- Witty Pi 4 Mini
+	- Programovanie time-lapse záznamu
+	- Výzvy a limitácie
+	- Využitie tohto zariadenia v praxi
+3. MQTT Protokol a Home Assistant
+	- Využitia MQTT protokolu
+	- Základné pojmy
+		- MQTT Broker
+		- Publish/Subscribe
+		- Messages
+		- Topics
+	- Využitie v reálnych aplikáciách
+4. Návrh testovacej prevádzky
+	- Schéma navrhovaného riešenia
+	- Použité zariadenia a senzory
+	- Výber vhodných senzorov
+	- Bezpečnosť a ochrana súkromia
+5. Realizácia navrhovaného rešenia
+	- Zostavenie modelu
+	- Prepojenie zariadení, kamery a senzorov
+	- Programovanie automatizácie
+6. Monitorovanie dát
+	- Nástroje na monitorovanie
+		- Databáza InfluxDB
+		- Zobrazenie grafov cez Grafana
+	- Analýza dát
+7. Vyhodnotenie výsledkov
+- Záver
+- Zdroje
+- Prílohy
+	- Kódy
+	- Detailné fotky
