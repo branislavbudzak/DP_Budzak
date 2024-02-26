@@ -29,6 +29,7 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 - [[I2C Protokol]]
 
 #### Softvér
+- [[RPi Operačný systém]]
 - [[RPi Komunikačný server]]
 - [[RPi Home Assistant]]
 - [[RPi Time-lapse]]
@@ -52,8 +53,12 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 	- Inteligentné kvetináče
 	- Inteligentné zavlažovanie
 		- Význam a prínos automatického zavlažovania
-	- Údaje na monitorovanie rastliny
-		- Podrobnejší opis a ako súvisia
+	- Údaje na monitorovanie rastliny (Podrobnejší opis a ako medzi sebou súvisia)
+		- Vlhkosť pôdy
+		- Teplota a vlhkosť vzduchu
+		- Svetlo
+		- Vodivosť
+		- Nutričné hodnoty
 	- Time-lapse záznamy
 		- Aktuálne riešenia
 		- Kamery
