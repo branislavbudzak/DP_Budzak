@@ -1,5 +1,6 @@
 ---
 id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
+modified: 22/03/2024, 10:20
 ---
 #### Zadanie diplomovej práce
 1. Naštudujte si a oboznámte sa s problematikou inteligentnej domácnosti a jej využitia pri starostlivosti o rastliny
@@ -48,6 +49,7 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 ### Obsah diplomovej práce
 - Úvod
 1. Úvod do problematiky
+	- Inteligentné monitorovanie rastlín v poľnohospodárstve
 	- Monitorovanie rastín v smart domácností
 		- Význam a prínos monitorovania rastlín
 	- Inteligentné kvetináče
@@ -87,6 +89,7 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 		- Messages
 		- Topics
 	- Architektúra MQTT
+	- Rôzne druhy brokerov
 	- Ovládanie zariadení pomocou MQTT
 	- Využitie v reálnych aplikáciách
 4. Návrh testovacej prevádzky
@@ -97,12 +100,14 @@ id: fcb3fbc9-acd8-4f3a-9c49-c4d60e96b8a2
 5. Realizácia navrhovaného rešenia
 	- Zostavenie modelu
 	- Prepojenie zariadení, kamery a senzorov
+	- Konfigurácia hotového riešenia od Xiaomi
 	- Programovanie automatizácie
 6. Monitorovanie dát
 	- Nástroje na monitorovanie
 		- Databáza InfluxDB
 		- Zobrazenie grafov cez Grafana
 	- Analýza dát
+	- Porovnanie nášho riešenia s all-in-one riešením
 7. Vyhodnotenie výsledkov
 - Záver
 - Zdroje
